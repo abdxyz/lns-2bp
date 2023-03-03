@@ -1,0 +1,139 @@
+{
+   "bestStep" : 0,
+   "bestTime" : 0,
+   "solutions" : [
+      {
+         "bin" : 0,
+         "height" : 8,
+         "id" : "1",
+         "width" : 4,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 8,
+         "id" : "2",
+         "width" : 4,
+         "x" : 4,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "4",
+         "width" : 8,
+         "x" : 0,
+         "y" : 8
+      },
+      {
+         "bin" : 0,
+         "height" : 8,
+         "id" : "5",
+         "width" : 2,
+         "x" : 8,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 8,
+         "id" : "6",
+         "width" : 2,
+         "x" : 10,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 7,
+         "id" : "3",
+         "width" : 3,
+         "x" : 12,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "13",
+         "width" : 3,
+         "x" : 12,
+         "y" : 7
+      },
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "14",
+         "width" : 3,
+         "x" : 8,
+         "y" : 8
+      },
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "16",
+         "width" : 1,
+         "x" : 11,
+         "y" : 8
+      },
+      {
+         "bin" : 1,
+         "height" : 4,
+         "id" : "8",
+         "width" : 3,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "bin" : 1,
+         "height" : 4,
+         "id" : "9",
+         "width" : 3,
+         "x" : 0,
+         "y" : 4
+      },
+      {
+         "bin" : 1,
+         "height" : 4,
+         "id" : "7",
+         "width" : 3,
+         "x" : 3,
+         "y" : 0
+      },
+      {
+         "bin" : 1,
+         "height" : 4,
+         "id" : "11",
+         "width" : 3,
+         "x" : 3,
+         "y" : 4
+      },
+      {
+         "bin" : 1,
+         "height" : 3,
+         "id" : "10",
+         "width" : 4,
+         "x" : 6,
+         "y" : 0
+      },
+      {
+         "bin" : 1,
+         "height" : 3,
+         "id" : "12",
+         "width" : 3,
+         "x" : 10,
+         "y" : 0
+      },
+      {
+         "bin" : 1,
+         "height" : 3,
+         "id" : "15",
+         "width" : 2,
+         "x" : 13,
+         "y" : 0
+      }
+   ],
+   "steps" : [ 0 ],
+   "times" : [ 0 ],
+   "unity" : 1.5,
+   "unitys" : [ 1.5 ]
+}
+

@@ -1,0 +1,72 @@
+{
+   "bestStep" : 0,
+   "bestTime" : 0,
+   "solutions" : [
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "6",
+         "width" : 20,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 18,
+         "id" : "5",
+         "width" : 3,
+         "x" : 0,
+         "y" : 2
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "4",
+         "width" : 16,
+         "x" : 3,
+         "y" : 2
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "7",
+         "width" : 1,
+         "x" : 19,
+         "y" : 2
+      },
+      {
+         "bin" : 0,
+         "height" : 9,
+         "id" : "3",
+         "width" : 1,
+         "x" : 3,
+         "y" : 5
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "8",
+         "width" : 1,
+         "x" : 3,
+         "y" : 14
+      },
+      {
+         "bin" : 0,
+         "height" : 1,
+         "id" : "1",
+         "width" : 9,
+         "x" : 3,
+         "y" : 17
+      },
+      {
+         "bin" : 0,
+         "height" : 1,
+         "id" : "2",
+         "width" : 9,
+         "x" : 3,
+         "y" : 18
+      }
+   ],
+   "unity" : 0.4375
+}
+

@@ -1,0 +1,67 @@
+{
+   "bestStep" : 0,
+   "bestTime" : 0,
+   "solutions" : [
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "1",
+         "width" : 15,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "2",
+         "width" : 15,
+         "x" : 0,
+         "y" : 2
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "3",
+         "width" : 7,
+         "x" : 0,
+         "y" : 4
+      },
+      {
+         "bin" : 0,
+         "height" : 3,
+         "id" : "5",
+         "width" : 8,
+         "x" : 7,
+         "y" : 4
+      },
+      {
+         "bin" : 0,
+         "height" : 2,
+         "id" : "6",
+         "width" : 12,
+         "x" : 0,
+         "y" : 7
+      },
+      {
+         "bin" : 0,
+         "height" : 1,
+         "id" : "4",
+         "width" : 9,
+         "x" : 0,
+         "y" : 9
+      },
+      {
+         "bin" : 1,
+         "height" : 2,
+         "id" : "7",
+         "width" : 12,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "steps" : [ 0 ],
+   "times" : [ 0 ],
+   "unity" : 1.1599999999999999,
+   "unitys" : [ 1.1599999666213989 ]
+}
+
